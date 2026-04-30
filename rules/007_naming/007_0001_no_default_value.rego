@@ -8,7 +8,7 @@
 #  category: Maintainability
 #  rulename: NoDefaultValue
 #  severity: LOW
-#  rulenumber: 002_0009
+#  rulenumber: 007_0001
 #  remediation: Remove the attribute default value and set it explicitly in logic where needed.
 #  input: .*DomainModels\$DomainModel\.yaml
 
